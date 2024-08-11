@@ -1,4 +1,4 @@
 # game-building-_-demo
 This is my first Git Repository
 <br>
-Author - Mohit Gurjar
+Author - Mohit Gurjar(game builder)
